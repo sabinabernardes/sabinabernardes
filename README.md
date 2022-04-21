@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Sabina Bernardes 👋
 
 
-- 🌱 Sou Dev Android Jr
+- 🌱 Sou Dev Android 
 - 📩 Contato: bernardes.sabina@gmail.com
 - 😄 Pronouns: ela/dela
 
