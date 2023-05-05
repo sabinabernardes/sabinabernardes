@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sabina Bernardes</h1>
-<h3 align="center">A Android developer from Brazil</h3>
+<h3 align="center">An Android developer from Brazil</h3>
 
 - 💬 Ask me about **Android**
 
